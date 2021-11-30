@@ -1,0 +1,9 @@
+name: HideAndSeek
+version: '1.0-SNAPSHOT'
+main: lemmensthijmen.hideandseek.HideAndSeek
+api-version: 1.17
+commands:
+  arena:
+    description: alles
+  hardreset:
+    description: hard reset the arena

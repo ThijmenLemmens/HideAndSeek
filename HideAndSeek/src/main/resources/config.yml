@@ -1,0 +1,25 @@
+max-Players: 12
+min-players: 1
+countdown: 60
+lobby-spawn:
+  world: "world"
+  x: 100
+  y: 100
+  z: 100
+  yaw: 30
+  pitch: 30
+arenas:
+  '0':
+    world: "world"
+    x: 100
+    y: 100
+    z: 100
+    yaw: 30
+    pitch: 30
+  '1':
+    world: "world"
+    x: 100
+    y: 100
+    z: 100
+    yaw: 30
+    pitch: 30

@@ -1,0 +1,10 @@
+lemmensthijmen\hideandseek\Game.class
+lemmensthijmen\hideandseek\Enum\GameState.class
+lemmensthijmen\hideandseek\HideAndSeek.class
+lemmensthijmen\hideandseek\commands\HardRestCommand.class
+lemmensthijmen\hideandseek\config\Config.class
+lemmensthijmen\hideandseek\Manager.class
+lemmensthijmen\hideandseek\Arena.class
+lemmensthijmen\hideandseek\Countdown.class
+lemmensthijmen\hideandseek\listener\GameListener.class
+lemmensthijmen\hideandseek\commands\ArenaCommand.class
